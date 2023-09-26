@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RASZvWM7T+YyZGnxakrrFU1omnmAHEIEnbbH5HkxTlegI9J3QnqlOL7kMSXJFVEPooNYi3jgCDQ5aF+5Ba+9OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\percy\\source\\repos\\wpf5Pr\\wpf5Pr\\wpf5Pr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\percy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
